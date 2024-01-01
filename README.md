@@ -123,6 +123,7 @@
     <li>🎮 I’ve played <strong>FIFA, DOTA, LOL, POE</strong> etc.</li>
     <li>🍻 I’m interested on <strong>Music, Beverage (Alcohol) and Chill Out</strong>.</li>
     <li>🤪 I get along with others <strong>easily</strong>.</li>
+    <li>🛵 The best healing is <strong>riding with by Vespa</strong>.</li>
 </ul>
 <h2 align="left">Know Me More</h2>
 <p align="center">
