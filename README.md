@@ -127,7 +127,7 @@
 </ul>
 <h2 align="left">Know Me More</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/egwuenugift">
+    <a href="https://linkedin.com/in/chutinut">
         <img src="https://img.shields.io/badge/-Chutinut%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/chutinut" alt="LinkedIn Badge"></a>
     <a href="https://twitter.com/@imchutinut">
         <img src="https://img.shields.io/badge/-Chutinut-black?style=plastic&amp;labelColor=black&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
