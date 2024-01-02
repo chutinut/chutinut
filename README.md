@@ -75,20 +75,10 @@
 </ul>
 <h2 align="left">Know Me More</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/chutinut">
-        <img src="https://img.shields.io/badge/-Chutinut%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/chutinut" alt="LinkedIn Badge"></a>
-    <a href="https://twitter.com/@imchutinut">
-        <img src="https://img.shields.io/badge/-Chutinut-black?style=plastic&amp;labelColor=black&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-    <!-- <a href="https://www.youtube.com/">
-        <img src="https://img.shields.io/badge/-Chutinut-red?style=plastic&amp;labelColor=red&amp;logo=YouTube&amp;link=#" alt="Youtube Badge">
-    </a> -->
-     <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e">
-        <img src="https://img.shields.io/badge/-SHEDKAE-crimson?style=plastic&amp;labelColor=white&amp;logo=Instagram&amp;link=#" alt="Spotify Badge">
-    </a>
-    <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e">
-        <img src="https://img.shields.io/badge/-SHEDKAE-LimeGreen?style=plastic&amp;labelColor=white&amp;logo=Spotify&amp;link=#" alt="Spotify Badge">
-    </a>
-    <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e">
-        <img src="https://img.shields.io/badge/-SHEDKAE-midnightblue?style=plastic&amp;labelColor=midnightblue&amp;logo=Steam&amp;link=#" alt="Steam Badge">
-    </a>
+    <a href="https://linkedin.com/in/chutinut"><img src="https://img.shields.io/badge/-Chutinut%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/chutinut" alt="LinkedIn Badge"></a>
+    <a href="https://twitter.com/@imchutinut"><img src="https://img.shields.io/badge/-Chutinut-black?style=plastic&amp;labelColor=black&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+    <!-- <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/-Chutinut-red?style=plastic&amp;labelColor=red&amp;logo=YouTube&amp;link=#" alt="Youtube Badge"></a> -->
+     <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e"><img src="https://img.shields.io/badge/-SHEDKAE-crimson?style=plastic&amp;labelColor=white&amp;logo=Instagram&amp;link=#" alt="Spotify Badge"></a>
+    <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e"><img src="https://img.shields.io/badge/-SHEDKAE-LimeGreen?style=plastic&amp;labelColor=white&amp;logo=Spotify&amp;link=#" alt="Spotify Badge"></a>
+    <a href="https://open.spotify.com/user/uvj7wrgby7298cc2qf7bexhqk?si=cbddd8dc5445437e"><img src="https://img.shields.io/badge/-SHEDKAE-midnightblue?style=plastic&amp;labelColor=midnightblue&amp;logo=Steam&amp;link=#" alt="Steam Badge"></a>
 </p>
