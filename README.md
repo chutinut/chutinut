@@ -8,8 +8,7 @@
 
 <h2 align="left">⚡️ A Few Quick Facts</h2>
 <ul>
-    <li>🔭 I’m currently working on <strong>Chiang Rai Technology Co., Ltd. @Chiang Rai, Thailand</strong>. </li>
-    <li>🧑‍✈️ I’m currently consult on <strong>Startup Project Team, @Bangkok, Thailand</strong>. </li>
+    <li>🔭 I’m currently working on <strong>My Order Marketing Co., Ltd. @Phuket, Thailand</strong>. </li>
     <li>🧐 I’m currently learning about <strong>ReactJs</strong>, <strong>Microservice Architecture</strong>and a bit of <strong>Project Manager Skill</strong>. </li>
     <li>👨‍💻 My projects are available on <a href="https://github.com/chutinut">Github</a>.</li>
     <li>💬 Ping me about <strong>react, microservice, coding tips</strong> or other about <strong>coding technique</strong>.</li>
