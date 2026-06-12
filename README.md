@@ -1,148 +1,110 @@
-# Chutinut Jirasritana-anan (Gift)
+<p align="center">
+  <img src="./banner.gif" width="100%">
+</p>
 
-## Full Stack Developer • Tech Lead • Problem Solver
+# Chutinut Jirasritana-anan ⚔️
 
-Building systems. Leading teams. Solving problems.
+### Software Engineer • Builder • Adventurer
 
-I've been building software since 2017.
+```yaml
+CLASS: Software Engineer
+LEVEL: 33
+FACTION: Builders
+REGION: Thailand 🇹🇭
 
-From CRM systems and E-Commerce platforms to IoT applications, I've spent years working on products used by real businesses and real users.
+CURRENT QUEST:
+  Building things that survive production.
+````
 
-No buzzwords.
-
-Just software that works.
-
----
-
-## Current Focus
-
-- Building scalable applications
-- Backend architecture and system design
-- Leading engineering teams
-- Mentoring developers
-- Delivering products that matter
+> *Still learning. Still shipping.*
 
 ---
 
-## Tech Arsenal
+## ⚒️ Equipment
 
-### Frontend
+🗡️ TypeScript
 
-- Next.js
-- React
-- AngularJS
-- TypeScript
-- Tailwind CSS
+🛡️ Next.js
 
-### Backend
+⚒️ NestJS
 
-- Node.js
-- NestJS
-- Express
-- REST API
-- WebSocket
-- Go
+🏹 PostgreSQL
 
-### Database
+🔧 Docker
 
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### Infrastructure
-
-- Docker
-- Linux
-- NGINX
-- Cloudflare
-- Git
-- Postman
-- Jira
+⚡ Go
 
 ---
 
-## Journey
+## 🎒 Skills
 
-### GreenSense Innovation & Technology
-**Tech Lead • 2026 - Present**
-
-Leading development teams and building Web, Mobile and IoT solutions.
-
----
-
-### My Order Intelligence
-**Full Stack Developer • 2024 - 2026**
-
-Building order management systems, CRM features, payment solutions and messaging integrations.
-
-Helping establish engineering processes and growing teams.
+* Full Stack Development
+* System Design
+* Team Leadership
+* Mentoring Developers
+* Problem Solving
+* Clean Architecture
 
 ---
 
-### Chiangrai Technology
-**Software Developer • 2017 - 2024**
-
-Started from writing code.
-
-Learned how systems break.
-
-Learned how to fix them.
-
----
-
-## What Matters
-
-- Clean Architecture
-- Maintainable Code
-- Teamwork
-- Ownership
-- Continuous Improvement
-
-Because shipping a feature is easy.
-
-Keeping it alive is the hard part.
-
----
-
-## Outside The Terminal
+## 🗺️ Side Quests
 
 🏃 Runner
 
-📈 Financial Market Enthusiast
+📈 Market Explorer
 
 🛵 Vespa Rider
 
 🎮 Gamer
 
-🔫 Airsoft Enthusiast
+🔫 Airsoft Enjoyer
 
 ---
 
-## Philosophy
+## 📜 Philosophy
 
-> Anyone can write code.
->
-> Engineering is about solving problems.
+```cpp
+if (problem)
+{
+    solve(problem);
+}
+else
+{
+    build();
+}
+```
 
-Technology changes.
-
-Principles remain.
+> **First, solve the problem. Then, write the code.**
 
 ---
 
-## Connect
+## 🌎 Fast Travel
 
-- GitHub : github.com/chutinut
-- LinkedIn : linkedin.com/in/chutinut
-- Medium : medium.com/@chutinut.j
+<p align="left">
+  <a href="https://github.com/chutinut">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://linkedin.com/in/chutinut">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://medium.com/@chutinut.j">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium">
+  </a>
+
+  <a href="mailto:chutinut.j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ```cpp
-while (problem.exists())
+while (alive)
 {
     learn();
     adapt();
-    solve();
+    build();
 }
-````
+```
