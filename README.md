@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" width="100%">
+  <img src="./shedkae-banner.gif" width="100%">
 </p>
 
 # Chutinut Jirasritana-anan ⚔️
